@@ -6,6 +6,8 @@ Write a Python program that moves a robot from a start position to a goal on a 2
 
 ### Requirements
 
+![Map](map.png)
+
 - The robot starts at **(0, 0)**
 - The robot must reach **(3, 3)**
 - Obstacles are located at **(1,1)**, **(1,2)**, and **(2,2)**
